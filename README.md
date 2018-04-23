@@ -2,7 +2,7 @@
 This repo is for the first school Article in Android course 2018 spring. Topic: libGDX
 
 Article:
-
+https://github.com/AntonKornholt/libGDXArticle/blob/master/Article/LibGDX%20artikel.pdf
 
 How to setup LibGDX for your project:
 https://github.com/libgdx/libgdx/wiki/Project-Setup-Gradle
